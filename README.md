@@ -1,2 +1,2 @@
 # get_next_line_1337
-You are now starting to understand that it will get tricky to read data from a file descriptor if you don’t know its size beforehand. What size should your buffer be? How many times do you need to read the file descriptor to retrieve the data ? It is perfectly normal and natural that, as a programmer, you would want to read a “line” that ends with a line break from a file descriptor. For example each command that you type in your shell or each line read from a flat file.
+ read a line that ends with a line break from a file descriptor. For example each command that you type in your shell or each line read from a flat file.
